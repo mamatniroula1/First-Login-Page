@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="First-Login-Page">
+    <output-path>$PROJECT_DIR$/out/artifacts/First_Login_Page</output-path>
+    <root id="root" />
+  </artifact>
+</component>
